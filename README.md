@@ -31,11 +31,6 @@ I'm <Anderson Gil>, a student at Brigham Young University-Idaho interested in <Y
 - Proficient in: <List of Programming Languages or Technologies>
 - Skills: <Any Other Skills or Tools You Want to Highlight>
 
-## Let's Connect!
-
-- Here is my [LinkedIn](Your LinkedIn Profile Link) profile
-- Here is my [Twitter](Your Twitter Profile Link) profile
-
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
 
 
@@ -50,3 +45,6 @@ Feel free to explore my repositories and don't hesitate to reach out. Happy codi
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="amazonwebservices" alt="aws" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+## Let's Connect!
+[![https://www.linkedin.com/in/andersongilpetit](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
