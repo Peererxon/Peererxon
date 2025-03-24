@@ -19,8 +19,7 @@ Anderson Gil
    I’m Anderson Gil 😄
 </h1>
 
-![](https://komarev.com/ghpvc/?username=umangahuja1&abbreviated=true&style=for-the-badge)
-[![Instagram](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]([https://medium.com/@umangahuja1](http://instagram.com/peererxon))
+![](https://komarev.com/ghpvc/?username=peererxon&abbreviated=true&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umangahuja1)
 
 ### About me
