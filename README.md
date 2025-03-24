@@ -26,7 +26,8 @@ Anderson Gil
 
 - 🚀 I have 4 years of experience working with javascript and that's why I am very familiar with the language, mastering it (major used-libraries, promises, asynchronous waiting, destructuring, working with arrays, etc.).
 - ⚡ Fun fact: I love exploring new tech and solving challenging problems!
-
+ ## Portfolio
+ <a href="https://portafolio-peererxon.vercel.app/" target="_blank">peererxon</a>
 
 ### Languages and Tools
 
