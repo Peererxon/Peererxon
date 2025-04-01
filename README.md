@@ -26,9 +26,12 @@ Anderson Gil
 
 - 🚀 I have 4 years of experience working with javascript and that's why I am very familiar with the language, mastering it (major used-libraries, promises, asynchronous waiting, destructuring, working with arrays, etc.).
 - ⚡ Fun fact: I love exploring new tech and solving challenging problems!
- ## Portfolio
- <a href="https://portafolio-peererxon.vercel.app/" target="_blank">peererxon</a>
-  <a href="https://github.com/Peererxon/auto-complete-deel/" target="_blank">Autocomplete react app</a>
+ ## Projects
+ <ul>
+    <li> <a href="https://portafolio-peererxon.vercel.app/" target="_blank">Portfolio</a> deployed on vercel, made with react</li> 
+     <li> <a href="https://github.com/Peererxon/auto-complete-deel/" target="_blank">Autocomplete react app</a> Made with react, focusing on optimization and asyncronous requests</li>
+ </ul>
+ 
  
 
 ### Languages and Tools
